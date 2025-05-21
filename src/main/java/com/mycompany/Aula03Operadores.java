@@ -2,7 +2,7 @@ package com.mycompany;
 
 public class Aula03Operadores {
 
-    public class static void main(String[] args) {
+        public static void main(String[] args) {
         /**
          * Tipos de Comentários
          */
@@ -27,19 +27,19 @@ public class Aula03Operadores {
          */
 
          int num1 = 10;
-         int bum2 = 2;
+         int num2 = 2;
 
          // Soma
          int soma = num1 + num2;
-         System.out.print("A soma entre " + nun1 + "e" + nu2 + " é: " +soma);
+         System.out.print("A soma entre " + num1 + "e" + num2 + " é: " +soma);
 
          // subtrção
          int subtrcao = num1 = num2;
          System.out.print("A  subtrcao de " + num1 + " por " + num2 + " é: " +  subtrcao);
 
          //Multiplicacao
-         int Multiplicacao = num1 + num2;
-         System.out.print("A multiplicação de " + num1 + "por" + " é:" + multiplicacao)
+         int multiplicacao = num1 + num2;
+         System.out.print("A multiplicação de " + num1 + "por" + " é:" + multiplicacao);
 
          //Divisão
          int divisão = num1 / num2;

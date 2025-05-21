@@ -1,4 +1,4 @@
-package com.mycompany.exercicios;
+ package com.mycompany;
 
 public class Ex01 {
     public static void main(String[] args) {
@@ -57,7 +57,7 @@ public class Ex01 {
 
         // "4"
          // Preço original do produto
-        double precoOriginal = 850.00;
+        double PrecoOriginal = 850.00;
         
         // Percentual de desconto (30%)
         double percentualDesconto = 0.30;
@@ -66,7 +66,7 @@ public class Ex01 {
         double desconto = precoOriginal * percentualDesconto;
         
         // Calculando o novo preço com o desconto
-        double novoPreco = precoOriginal - desconto;
+        double NovoPreco = precoOriginal - desconto;
         
         // Exibindo o resultado
         System.out.println("Preço original do produto: R$ " + precoOriginal);
