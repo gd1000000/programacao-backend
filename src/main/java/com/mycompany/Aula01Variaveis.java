@@ -33,9 +33,9 @@ public class Aula01Variaveis {
         double numeroDouble = 10.5; // 64bits
 
         //Tipo abstrato
-        float numeroFloat = 10.5f;
-        double numeroDoubleAbs = 10.5; 
+        Float numeroFloatAbs = 10.5f;
+        Double numeroDoubleAbs = 10.5; 
 
         System.out.println("O valor de numeroFloat é: "+ numeroFloat +", e o valor de numeroDouble é: +numeroDouble");
-        }    
+    }    
 }
