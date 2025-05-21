@@ -67,7 +67,7 @@ public class Aula06Condicional {
          Scanner scan =new Scanner(System.in);
          String opcao = scan.nextLine();
          
-        Switch (opcao) {
+        switch (opcao) {
             case "a":
                 System.out.println("Resposta incorreta !!");
                 break;
